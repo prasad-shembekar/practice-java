@@ -27,4 +27,3 @@ class solution
 		System.out.println("Shuffle Array: "+Arrays.toString(nums));
 	}
 }
-`
