@@ -26,6 +26,7 @@ public class Largest{
             max = c;
         }
 
+        System.out.println(Math.max(c, Math.max(a,b)));
         System.out.println(max);
     }
 }
